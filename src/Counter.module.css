@@ -1,0 +1,19 @@
+.Counter {
+  display: flex;
+  justify-content: center;
+  flex-flow: row nowrap;
+  align-items: center;
+  border: 2px solid gray;
+  padding: 2% 3%;
+  width: 50%;
+}
+
+.Counter button {
+  width: 10%;
+}
+
+.Counter input {
+  display: block;
+  box-sizing: content-box;
+  width: 20%;
+}
